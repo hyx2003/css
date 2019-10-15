@@ -1,17 +1,15 @@
-h1,h2{
+body{
+  border-left-color:#25aad3;
+  border-left-style:dotted;
+  border-left-width:2.65px;
+  border-top:2.5px dotted #25abd3;
+  border-bottom:2.8px solid #26aab3;
+  border-right:2.85px dotted #25abb3;
   font-family: sans-serif;
-  color:gray;
-}
-h1{ 
-  border-bottom: 1px solid black;
-}
-p{color:maroon
-}
-h1{
-  background-color: #2521fa;
-  border: 5px solid #aa12af
-}
-h2{
-  border: 1.66px solid #a6d2f1;
-  color: #addd23;
+  color:#65dc23;
+  background-color:#5855ad;
+  text-align:center;
+} 
+h1 h2 p{
+  border-bottom:2px dotted #10add2;
 }
